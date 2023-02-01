@@ -1,2 +1,1 @@
-# Mysql-Backup-Script
-Shell Script Mysql Backup
+Shell Backup Scripts
